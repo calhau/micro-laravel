@@ -1,16 +1,17 @@
 ## Aluno Bruno Leal
 
-## Exercio 1
+## Exercio 1 - Correção
 
+[x] - Disponiblizar toda aplicação no gitHub
 [x] - Disponiblizar ambiente Laravel funcionando
 [x] - Criar imagem do docker e subir no DockerHub
 
-**Dúvidas apresentadas.
 
-Não sei se entendi bem, mas no caso seria só disponibilizar o caminho da imagem criada certo?
+**Correção.
 
-Aguardo contato,
+Agora sim a aplicação toda está aqui no gitHub.
 
-Obrigado o apoio
+Não tinha ficado muito claro, desculpe.
+
 
 - **[DockerHUB](lealbruno/micro-laravel)**
