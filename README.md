@@ -14,4 +14,4 @@ Agora sim a aplicação toda está aqui no gitHub.
 Não tinha ficado muito claro, desculpe.
 
 
-- **[DockerHUB](lealbruno/micro-laravel)**
+- **[DockerHUB](https://hub.docker.com/repository/docker/lealbruno/micro-laravel)**
