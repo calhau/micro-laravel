@@ -15,5 +15,5 @@ Não tinha ficado muito claro, desculpe.
 
 
 - **[DockerHUB - App Laravel](https://hub.docker.com/repository/docker/lealbruno/micro-laravel)**
-- **[DockerHUB - App GoLang](https://hub.docker.com/repository/docker/lealbruno/codeeducation)**
-###- docker push lealbruno/codeeducation
+- **[DockerHUB - App GoLang](https://hub.docker.com/repository/docker/lealbruno/codeeducation)**  
+- **Baixar imagem** - docker push lealbruno/codeeducation
