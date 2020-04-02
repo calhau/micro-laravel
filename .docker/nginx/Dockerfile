@@ -12,7 +12,7 @@ RUN wget https://github.com/jwilder/dockerize/releases/download/$DOCKERIZE_VERSI
     && tar -C /usr/local/bin -xzvf dockerize-alpine-linux-amd64-$DOCKERIZE_VERSION.tar.gz \
     && rm dockerize-alpine-linux-amd64-$DOCKERIZE_VERSION.tar.gz
 
-#CMD ["dockerize", "-template", "./nginx.tmpl:/etc/nginx/nginx.conf", "nginx", "-g", "daemon off;"]
 COPY ./nginx.conf .
 COPY ./nginx.tmpl .
 
+CMD ["dockerize", "-template", "./nginx.tmpl:./nginx.conf", "nginx", "-g", "daemon off;"]
