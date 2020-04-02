@@ -2,11 +2,11 @@
 
 ## Exercio 1 e 2 - Publicando Imagem Laravel
 
-[x] - Disponiblizar toda aplicação no gitHub
-[x] - Disponiblizar ambiente Laravel funcionando
-[x] - Criar imagem do docker e subir no DockerHub
-[x] - Criar imagem optimezed 
-## [x] - Adicionado template para o NGINX
+[x] - Disponiblizar toda aplicação no gitHub  
+[x] - Disponiblizar ambiente Laravel funcionando  
+[x] - Criar imagem do docker e subir no DockerHub  
+[x] - Criar imagem optimezed  
+## [x] - Adicionado template para o NGINX  
 
 Adicionado arquivo nginxx.tmpl
 -----------------------------------------------------
