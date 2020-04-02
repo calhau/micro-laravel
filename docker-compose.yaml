@@ -25,6 +25,7 @@ services:
         container_name: nginx
         restart: always
         #entrypoint: dockerize -template ./nginx.tmpl:./nginx.conf nginx -g 'daemon off;'
+        #Ao inves de utilizar o entryPoint, utilizei direto no CMD - DockerFile
         environment: 
             - HOST=app
             - PORT=9000
