@@ -15,4 +15,4 @@ RUN wget https://github.com/jwilder/dockerize/releases/download/$DOCKERIZE_VERSI
 COPY ./nginx.conf .
 COPY ./nginx.tmpl .
 
-CMD ["dockerize", "-template", "./nginx.tmpl:./nginx.conf", "nginx", "-g", "daemon off;"]
+#CMD ["dockerize", "-template", "./nginx.tmpl:./nginx.conf", "nginx", "-g", "daemon off;"]
